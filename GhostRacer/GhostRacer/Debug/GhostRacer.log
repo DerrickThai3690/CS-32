@@ -1,0 +1,10 @@
+﻿  Actor.cpp
+  StudentWorld.cpp
+C:\Users\Derrick\source\repos\GhostRacer\GhostRacer\StudentWorld.cpp(81,52): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Derrick\source\repos\GhostRacer\GhostRacer\StudentWorld.cpp(148,28): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\Derrick\source\repos\GhostRacer\GhostRacer\StudentWorld.cpp(149,37): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Derrick\source\repos\GhostRacer\GhostRacer\StudentWorld.cpp(195,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Derrick\source\repos\GhostRacer\GhostRacer\StudentWorld.cpp(198,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Derrick\source\repos\GhostRacer\GhostRacer\StudentWorld.cpp(201,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  GhostRacer.vcxproj -> C:\Users\Derrick\source\repos\GhostRacer\Debug\GhostRacer.exe
